@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BlazorWpfSample
+namespace WpfBlazorSample
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

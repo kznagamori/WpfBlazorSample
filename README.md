@@ -69,7 +69,7 @@ index c178a24..14694d3 100644
 
 -namespace WpfBlazorSample;
 -
-+namespace BlazorWpfSample
++namespace WpfBlazorSample
 +{
         /// <summary>
         /// Interaction logic for MainWindow.xaml
