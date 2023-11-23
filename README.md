@@ -112,3 +112,16 @@ index 34a8ee9..31f6d26 100644
 +
  </Project>
 ```
+
+## ビルド
+```
+dotnet build
+```
+wwwrootはプロジェクトのを絶対パスで参照しているので、移動などはしてはいけない。
+
+## リリース
+```
+dotnet publish
+```
+`bin\Release\net8.0-windows\win-x64\publish` 以下に保存される。
+`bin\Release\net8.0-windows\win-x64`ではないので**注意**
