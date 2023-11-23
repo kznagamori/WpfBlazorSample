@@ -1,0 +1,2 @@
+# WpfBlazorSample
+dotnet sdkでwpfでblazorのWindowsアプリを作成するサンプル
